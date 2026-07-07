@@ -32,4 +32,5 @@ The system accurately predicts student placement probability by analyzing academ
 
 The screenshot below showcases the Placement Prediction System, including data visualizations, model performance metrics, and prediction results.
 
-![Placement Prediction Dashboard](placement_prediction.png)
+![Placement Prediction Dashboard](https://github.com/vrushalisalunkhe343/Placement-prediction/blob/main/Screenshot%202026-05-26%20104732.png)
+![Placement Prediction Dashboard]()
